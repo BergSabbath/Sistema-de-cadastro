@@ -1,8 +1,8 @@
 # Sistema de cadastro de jogos
 
->Status do projeto: Em desenvolvimento
+> Status do projeto: Em desenvolvimento
 
-> Para rodar o projeto em sua máquina, por favor digite:
+Para rodar o projeto em sua máquina, por favor digite:
 
 ```
 npm install
